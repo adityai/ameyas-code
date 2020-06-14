@@ -1,3 +1,3 @@
 # Ameya's Code
 
-Learning to use github.
+Learning to use github and python.
